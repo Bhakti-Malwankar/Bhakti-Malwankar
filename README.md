@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+AI+Builder;Hackathon+Competitor+%7C+Problem+Solver;Building+Real+World+Projects+Daily" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhakti-Malwankar&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Bhakti-Malwankar?label=Followers&style=social" />
-</p>
+</p> -->
 
 ---
 
