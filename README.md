@@ -8,10 +8,10 @@ Full Stack Developer • AI Enthusiast • Computer Science (AI) Student • Fut
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3200&pause=1200&color=4A90E2&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+%7C+AI+Builder;Hackathon+Competitor+%7C+Problem+Solver;Building+Real+World+Projects+Every+Day" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhakti-Malwankar&label=Profile+Views&color=4A90E2&style=flat" />
   <img src="https://img.shields.io/github/followers/Bhakti-Malwankar?label=Followers&style=social" />
-</p>
+</p> -->
 
 ---
 
